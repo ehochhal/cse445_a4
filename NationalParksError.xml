@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7888</Phone>
+    <Phone>928-638-7777</Phone>
+    <Address>
+      <Number>20</Number>
+      <Street>South Entrance Road</Street>
+      <City>Grand Canyon Village</City>
+      <State>Arizona</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Yosemite</Name>
+
+    <Address NearestAirport="Fresno Yosemite International">
+      <Number>9039</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>California</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Phone>307-555-1234</Phone>
+    <Address NearestAirport="Bozeman Yellowstone International">
+      <Number>1</Number>
+      <Street>Grand Loop Road</Street>
+      <City>Yellowstone</City>
+      <State>Wyoming</State>
+      <Zip>82190</Zip>
+    
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Name>Zion1</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George Regional Airport">
+      <Number>1</Number>
+      <Street>Temple of Sinawava</Street>
+      <City>Springdale</City>
+      <State>Utah</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Bryce Canyon</Name>
+    <Phone>435-834-5322</Phone>
+    <Address NearestAirport="Cedar City Regional Airport">
+      <Number>1</Number>
+      <Street>Bryce Canyon Scenic Drive</Street>
+      <City>Bryce</City>
+      <State>Utah</State>
+      <Zip>84764</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Canyonlands Field Airport">
+      <Number>1</Number>
+      <Street>Arches Entrance Road</Street>
+      <City>Moab</City>
+      <State>Utah</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Grand Teton</Name>
+    <Phone>307-739-3300</Phone>
+    <Address NearestAirport="Jackson Hole Airport">
+      <Number>1</Number>
+      <Street>Moose Entrance</Street>
+      <City>Jackson</City>
+      <State>Wyoming</State>
+      <Zip>83001</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearestAirport="Denver International Airport">
+      <Number>1</Number>
+      <Street>Estes Park Entrance</Street>
+      <City>Estes Park</City>
+      <State>Colorado</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Everglades</Name>
+    <Phone>305-242-7700</Phone>
+    <Address NearestAirport="Miami International Airport">
+      <Number>400</Number>
+      <Street>Gulf Coast Visitor Center</Street>
+      <City>Homestead</City>
+      <State>Florida</State>
+      <Zip>33034</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Glacier</Name>
+    <Phone>406-888-7800</Phone>
+    <Phone>406-888-7801</Phone>
+    <Address NearestAirport="Glacier Park International Airport">
+      <Number>1</Number>
+      <Street>West Glacier Entrance Road</Street>
+      <City>West Glacier</City>
+      <State>Montana</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalPark>
